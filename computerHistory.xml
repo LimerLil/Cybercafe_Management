@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<computersHistory>
+    <list>
+        <id>22</id>
+        <name>com22</name>
+        <user>Itachi-mon</user>
+        <startTime>1720600203481</startTime>
+        <endTime>1720600205331</endTime>
+        <useTime>1850</useTime>
+        <fee>20.555555555555557</fee>
+    </list>
+    <list>
+        <id>1</id>
+        <name>com1</name>
+        <user>Lê Thị Thùy</user>
+        <startTime>1720750274112</startTime>
+        <endTime>1720750333813</endTime>
+        <useTime>59701</useTime>
+        <fee>165.8361111111111</fee>
+    </list>
+    <list>
+        <id>3</id>
+        <name>com3</name>
+        <user>Lê Anh Nhật</user>
+        <startTime>1720764079210</startTime>
+        <endTime>1720764187556</endTime>
+        <useTime>108346</useTime>
+        <fee>300.9611111111111</fee>
+    </list>
+</computersHistory>
